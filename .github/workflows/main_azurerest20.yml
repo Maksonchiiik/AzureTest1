@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'AzureRest20'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5A56F02895974AC986F886B45F600006 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E2C05DDC68B847ABAE65698043962965 }}
